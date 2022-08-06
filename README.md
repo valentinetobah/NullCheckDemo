@@ -1,4 +1,4 @@
-# NullCheckDemo
+# Development
 
 # Description
 The Simple Java Code demonstrates the how dynamic null checks can be done when using the Object equals() to compare mutable and immutable Java Objects.
